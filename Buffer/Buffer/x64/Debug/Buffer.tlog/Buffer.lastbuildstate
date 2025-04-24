@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.43.34808:TargetPlatformVersion=10.0.22621.0:
 Debug|x64|C:\Users\start\source\repos\Buffer\|
+=======
+PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.43.34808:TargetPlatformVersion=10.0.22621.0:
+Debug|x64|C:\Users\start\source\repos\Buffer\|
+>>>>>>> e10a2e426d1b36269ba9c63921ba8f60204973f0
